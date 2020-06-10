@@ -1,0 +1,31 @@
+//header
+.nav-top{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+// .hkg-logo{
+//   width: 50%;
+// }
+.logo-header img, {
+//  .logo-header img, .logo-footer img {
+  max-width: 100px;
+  width: auto;
+  height: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.text-primary{
+  color: #1101A9;
+}
+.hkg-blue{
+  color: #1101A9 !important;
+}
+.hkg-org{
+  color: #FE650B !important;
+}
+.site-button{
+  background-color: #FE650B!important;
+}
+.hkg-text-shadow{
+  text-shadow: 0.1em 0.1em 0.2em $white;
+}

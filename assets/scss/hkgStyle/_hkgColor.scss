@@ -74,3 +74,6 @@ box-shadow: 1px -4px 15px -2px rgba(112,112,112,0.42);
     -moz-box-shadow: 1px -4px 15px -2px rgba(112,112,112,0.42);
   }
   }
+//@$hkg-blue
+$hkg-blue: #1101A9 !default;
+.hkg-blue{color: $hkg-blue;}
