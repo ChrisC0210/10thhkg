@@ -8,11 +8,19 @@
 // }
 .logo-header img, {
 //  .logo-header img, .logo-footer img {
-  max-width: 100px;
+  max-width: 260px;
   width: auto;
   height: auto;
   margin-bottom: 10px;
   margin-top: 10px;
+}
+.w3-topbar-right{
+  a{
+    color:$white;
+  }
+  &:hover,:active{
+    color:$hkg-orange;
+  }  
 }
 .text-primary{
   color: #1101A9;

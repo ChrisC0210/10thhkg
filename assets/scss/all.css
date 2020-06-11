@@ -122,17 +122,29 @@
   color: #1101A9;
 }
 
+.hkg-orange {
+  color: #FE650B;
+}
+
 .nav-top {
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 .logo-header img {
-  max-width: 100px;
+  max-width: 260px;
   width: auto;
   height: auto;
   margin-bottom: 10px;
   margin-top: 10px;
+}
+
+.w3-topbar-right a {
+  color: #fefefe;
+}
+
+.w3-topbar-right:hover, .w3-topbar-right :active {
+  color: #FE650B;
 }
 
 .text-primary {
