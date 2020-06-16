@@ -33,6 +33,9 @@
 }
 .site-button{
   background-color: #FE650B!important;
+  &:hover{
+    background-color: $hkg-orange-400 !important;
+  }
 }
 .hkg-text-shadow{
   text-shadow: 0.1em 0.1em 0.2em $gray-700;

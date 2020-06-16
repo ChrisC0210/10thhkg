@@ -126,6 +126,10 @@
   color: #1101A9;
 }
 
+.hkg-orange-400 {
+  color: #FEAF10;
+}
+
 .hkg-orange {
   color: #FE650B;
 }
@@ -632,6 +636,10 @@
 
 .site-button {
   background-color: #FE650B !important;
+}
+
+.site-button:hover {
+  background-color: #FEAF10 !important;
 }
 
 .hkg-text-shadow {
